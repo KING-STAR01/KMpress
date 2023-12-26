@@ -1,0 +1,9 @@
+
+*.txt
+__pycache__
+*.log
+*.bak
+*.swp
+*.pyc
+*.compressed
+
