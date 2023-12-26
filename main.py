@@ -158,5 +158,5 @@ if __name__ == "__main__":
 
     if args.decompress:
         decompress(args.file, args.output)
-    else:
+    if args.compress:
         compress(args.file, args.output)
